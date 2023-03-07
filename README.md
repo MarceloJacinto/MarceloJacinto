@@ -4,3 +4,7 @@ I am currently a PhD student at [Institute for Systems and Robotics (ISR-Lisbon)
 
 - 🤖 I’m currently working on control and navigation of multirotor vehicles (drones)
 - 📫 How to reach me: marcelo.jacinto@tecnico.ulisboa.pt
+
+Some links to projects I'm really proud of:
+- [Pegasus Simulator](https://github.com/PegasusSimulator/PegasusSimulator) - An Isaac Sim Framework for Multiple Aerial Vehicles Simulation with PX4 support 
+- [Medusa Control Stack](https://github.com/dsor-isr/medusa_simulation) - A code stack for guidance, control and navigation of Autonomous Underwater Vehicles (AUV)s
