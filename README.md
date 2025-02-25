@@ -9,3 +9,5 @@ Some links to projects I'm really proud of:
 - [Pegasus Simulator](https://github.com/PegasusSimulator/PegasusSimulator) - An Isaac Sim Framework for Multiple Aerial Vehicles Simulation with PX4 support
 - [Pegasus GNC Project](https://github.com/PegasusResearch) - A Guidance, Navigation and Control system using ROS 2 and a quadrotor CAD prototype for 3D printing
 - [Medusa Control Stack](https://github.com/dsor-isr/medusa_simulation) - A code stack for guidance, control and navigation of Autonomous Underwater Vehicles (AUV)s
+
+Also check my academic work at [Google Scholar](https://scholar.google.com/citations?user=tVPo_z0AAAAJ&hl=en).
